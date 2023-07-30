@@ -11,16 +11,16 @@ public class ArcadeCoupons {
 		int gumballs = 3;
 		int candybar = 10;
 
-		
-		
-		
 		if (coupon / candybar != 0) {
 			int rem = coupon % candybar;
-			System.out.println("Number of Gumballs:" + coupon/candybar);
+			System.out.println("Number of Gumballs:" + coupon / candybar);
 
 			if (rem >= 3) {
 				System.out.println("Number of Candies:" + rem / 3);
 			}
+		} else if (coupon <= 9 && coupon > 3) {
+			System.out.println("Number of Candies: 0");
+			System.out.println("Number of Gumballs: " + coupon / 3);
 		} else if (coupon < 3) {
 			System.out.println("Not enough coupons");
 		}
