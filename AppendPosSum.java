@@ -1,3 +1,16 @@
+//Create a static method that:
+
+//- is called `appendPosSum`
+//- returns an `ArrayList` of Integers
+//- takes one parameter: an ArrayList of Integers
+
+
+//This method should:
+
+//- Create a new ArrayList of Integers
+//- Add only the positive Integers to the new ArrayList
+//- Sum the positive Integers in the new ArrayList and _**add the Sum as the last element**_
+
 package ReplitTries;
 
 import java.util.ArrayList;
