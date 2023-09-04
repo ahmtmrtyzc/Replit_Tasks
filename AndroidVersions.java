@@ -1,3 +1,10 @@
+//Android is one of the best operating systems in the world that helps the billion of users who use smart phones and tablets. Also, Android versions always had some funny names related to sweets. In this assignment, you need to write a program that will print a name of Android version, based on number. Please refer to the link beneath, in order to develop your if statement.
+//https://www.javatpoint.com/android-versions
+
+//1. Create an object of **_Scanner_** class named **_scanner. (DONE)_**
+//2. Create **_double_** variable named **_version._ (DONE)**
+//3. Write an if statement that will print android version name based on value of the **_version_** variable.
+
 package ReplitTries;
 
 import java.util.Scanner;
