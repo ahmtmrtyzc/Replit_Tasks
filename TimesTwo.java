@@ -1,3 +1,12 @@
+//Create a method that:
+
+//- is called `timesTwo`
+//- returns an `ArrayList` of Integers
+//- takes in a single parameter - an `ArrayList` of `Integers` called `nums`
+
+//This method should take the ArrayList parameter and multiply every value by two.  
+
+
 package ReplitTries;
 
 import java.util.ArrayList;
