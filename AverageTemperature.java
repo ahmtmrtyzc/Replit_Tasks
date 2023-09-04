@@ -1,7 +1,4 @@
 //Given an array **temps** with temperature values find and print the average value
-
-
-
 package ReplitTries;
 
 import java.util.Scanner;
