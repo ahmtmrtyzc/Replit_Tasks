@@ -1,3 +1,14 @@
+//Write program for Leasing office.
+
+//numberOfBedrooms variable already declared and assigned value using Scanner:
+
+//startingPrice is set to 0.
+
+//> **prices**
+//> 1 bedroom - 1100
+//> 2 bedroom - 1850
+//> 3 bedroom - 2550
+
 package ReplitTries;
 
 import java.util.Scanner;
