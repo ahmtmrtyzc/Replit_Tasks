@@ -1,3 +1,8 @@
+//We will be manipulating elements of an ArrayList by using List methods.
+
+//The first List method we will learn is `.add()`
+
+//The following code will take an ArrayList of Strings called strs and add "Hello" to it.
 package ReplitTries;
 
 import java.util.ArrayList;
